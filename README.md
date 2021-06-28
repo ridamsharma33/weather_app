@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Weather Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Find out the current weather forecast in any city around the world. Download the app directly from a browser and use anywhere.
 
 ## Available Scripts
 
